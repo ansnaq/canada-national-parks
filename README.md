@@ -1,3 +1,3 @@
 # Canada National Parks
 
-[Demo here](https://pmcclure.github.io/canada-national-parks/)
+[Demo here](https://ansnaq.github.io/canada-national-parks/)
